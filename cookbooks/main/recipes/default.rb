@@ -72,3 +72,6 @@
 #require_recipe "mysql_administrative_tools"
 
 require_recipe "timezone"
+
+#this for delayed job recipies.
+require_recipe "delayed_job"
